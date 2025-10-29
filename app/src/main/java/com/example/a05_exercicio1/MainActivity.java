@@ -20,6 +20,14 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+     *@author: Felipe Pires de Araujo
+     */
+
+    /*
+    Felipe Pires de Araujo
+    1110482412004
+    */
     private Spinner spQuantFaces;
     private RadioButton rbquant1;
     private RadioButton rbquant2;
