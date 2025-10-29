@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">05_Exercise1</string>
+    <string name="Faces">Choose the number of faces</string>
+    <string name="QuantDados">Choose the amount of cubes</string>
+    <string name="Rolar">"Roll "</string>
+</resources>
